@@ -147,7 +147,7 @@ docker build -t sameersbn/gitlab github.com/sameersbn/docker-gitlab
 The quickest way to get started is using [docker-compose](https://docs.docker.com/compose/).
 
 ```bash
-wget https://raw.githubusercontent.com/sameersbn/docker-gitlab/master/docker-compose.yml
+wget https://raw.githubusercontent.com/codeindevelop/gitlab/master/docker-compose.yml
 ```
 
 Generate random strings that are at least `64` characters long for each of `GITLAB_SECRETS_OTP_KEY_BASE`, `GITLAB_SECRETS_DB_KEY_BASE`, and `GITLAB_SECRETS_SECRET_KEY_BASE`. These values are used for the following:
