@@ -110,8 +110,8 @@ services:
     - REDIS_HOST=redis
     - REDIS_PORT=6379
 
-    - TZ=Asia/Kolkata
-    - GITLAB_TIMEZONE=Kolkata
+    - TZ=Asia/Tehran
+    - GITLAB_TIMEZONE=Tehran
 
     - GITLAB_HTTPS=true
     - SSL_SELF_SIGNED=false

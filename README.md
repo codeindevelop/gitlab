@@ -1,4 +1,6 @@
-# sameersbn/gitlab:15.1.0
+## This repo customized and personal from sameersbn gitlab package
+
+# codeindevelopment/gitlab:15.1.0
 
 [![CircleCI](https://circleci.com/gh/sameersbn/docker-gitlab/tree/master.svg?style=svg)](https://circleci.com/gh/sameersbn/docker-gitlab/tree/master)
 
